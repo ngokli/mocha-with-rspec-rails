@@ -39,5 +39,5 @@ group :test, :development do
 end
 
 group :test do
-  gem "mocha", "~> 0.12.0", require: false
+  gem "mocha", "~> 0.12.0", :require => false
 end
